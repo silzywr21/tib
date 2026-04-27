@@ -2,7 +2,7 @@
  echo"Hello word";
 echo "<br><br>" ;
 
- $nama = "mul";
+ $nama = "silzy";
  $umur =  20;
  $kelas = "TIB Semester 4";
  echo"nama saya $nama, umur saya $umur, kelas saya $kelas";
